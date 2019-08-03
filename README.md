@@ -1,3 +1,4 @@
 # NastyPigeon
 
-Trying to do some game with 2048 mechanics. Pigeon should fly and not hit a cars. It can poop to destroy cars and get more points. Need to be finished.
+A game where you need to 'kill' people and avoid flying cars  
+This time I worked more with the graphics, as mechanics and scoring system is pretty easy here
